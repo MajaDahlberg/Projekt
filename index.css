@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+main {
+    max-width: 1000px;
+}
+
+nav {
+    display: flex;
+}
+.nav left {
+    float:left;
+}
